@@ -104,7 +104,7 @@ Unauthorized use = 🚔 Legal consequences + 🏛️ Fines + 🔓 Reputation dam
 ## 📜 **License**
 
 MIT © [Harshit Bhati] - Hack responsibly!
-[![GitHub Stars](https://img.shields.io/github/stars/harshitbhati4/port-scanner?style=for-the-badge)](https://github.com/harshitbhati4/port-scanner)
+[![GitHub Stars](https://img.shields.io/github/stars/harshitbhati4/Port-Scanner?style=for-the-badge)](https://github.com/harshitbhati4/Port-Scanner)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python)](https://python.org)
 
 ---
